@@ -1,12 +1,12 @@
 {
-  "name": "netlify-xhttp-relay",
+  "name": "hopenet",
   "version": "1.0.0",
-  "description": "Netlify Edge Function HTTP relay for your own upstream service",
+  "description": "hopenet",
   "private": true,
   "license": "MIT",
   "scripts": {
     "dev": "netlify dev",
-    "build": "echo 'No build step required'"
+    "build": "echo 'Not needed'"
   },
   "devDependencies": {
     "netlify-cli": "latest"
